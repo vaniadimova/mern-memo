@@ -5,7 +5,7 @@ Hi there, thanks for stopping by, this is **Vania Dimova**.
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ```javascript
-const vania = {
+const Vania = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev", "tech", "node"],
     technologies: {
@@ -28,8 +28,8 @@ const vania = {
    <img src="https://deventweb.com/ghpvc/?username=vaniadimova">
 </a>
 
-![bottom.png](https://raw.githubusercontent.com/vaniadimova/FigureBed/master/img/readme-bottom.png)
+![bottom.png](https://raw.githubusercontent.com/vaniadimova/FigureBed/main/img/readme-bottom.png)
 
 ---
 
-⭐️ From [@vaniadimova](https://github.com/iCharlesZ)
+⭐️ From [@vaniadimova](https://github.com/vaniadimova)
