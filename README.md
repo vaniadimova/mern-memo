@@ -28,7 +28,7 @@ const Vania = {
    <img src="https://deventweb.com/ghpvc/?username=vaniadimova">
 </a>
 
-![bottom.png](https://raw.githubusercontent.com/vaniadimova/FigureBed/main/img/readme-bottom.png)
+![](https://raw.githubusercontent.com/vaniadimova/FigureBed/main/img/readme-bottom.png)
 
 ---
 
