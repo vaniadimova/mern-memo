@@ -1,4 +1,4 @@
-![head.png](https://raw.githubusercontent.com/vaniadimova/FigureBed/master/img/readme-top.png)
+![](https://raw.githubusercontent.com/vaniadimova/FigureBed/master/img/readme-top.png)
 
 Hi there, thanks for stopping by, this is **Vania Dimova**.
 
@@ -19,7 +19,7 @@ const Vania = {
 };
 ```
 
-![iVania's github stats](https://github-readme-stats.vercel.app/api?username=vaniadimova&hide=contribs,prs&count_private=true&show_icons=true)
+![iVania's github stats](https://github-readme-stats.netifly.app/api?username=vaniadimova&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/vaniadimova">
   <img src="https://img.shields.io/github/followers/vaniadimova">
