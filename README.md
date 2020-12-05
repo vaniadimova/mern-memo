@@ -19,7 +19,7 @@ const Vania = {
 };
 ```
 
-![iVania's github stats](https://github-readme-stats.netifly.app/api?username=vaniadimova&hide=contribs,prs&count_private=true&show_icons=true)
+![](https://github-readme-stats.netifly.app/api?username=vaniadimova&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/vaniadimova">
   <img src="https://img.shields.io/github/followers/vaniadimova">
